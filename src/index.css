@@ -4,7 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background: rgb(255,106,99);
+  background: linear-gradient(29deg, rgba(255,106,99,1) 0%, rgba(118,219,118,1) 50%, rgba(133,183,244,1) 100%);
   color: #fff;
   overflow-x: hidden;
 }
